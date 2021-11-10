@@ -1,6 +1,13 @@
+test
 fg
 gf
 gf
 gf
 gf
 gf
+
+ld;l
+dl;d
+;ld
+l;d
+main
